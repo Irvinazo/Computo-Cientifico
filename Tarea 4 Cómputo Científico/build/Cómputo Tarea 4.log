@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.8.29)  20 SEP 2023 09:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.8.29)  20 SEP 2023 15:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/César Rosas/Documents/Maestría/Semestre 3/Cómputo Científico/Tarea 3 Cómputo Científico/Cómputo Tarea 3.tex"
-(c:/Users/César Rosas/Documents/Maestría/Semestre 3/Cómputo Científico/Tarea 3 Cómputo Científico/Cómputo Tarea 3.tex
+**"c:/Users/César Rosas/Documents/Maestría/Semestre 3/Cómputo Científico/Tarea 4 Cómputo Científico/Cómputo Tarea 4.tex"
+(c:/Users/César Rosas/Documents/Maestría/Semestre 3/Cómputo Científico/Tarea 4 Cómputo Científico/Cómputo Tarea 4.tex
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-11>
 (C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -473,26 +473,26 @@ Package: dsfont 1995/08/01 v0.1 Double stroke roman fonts
 File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count315
 \l__pdf_internal_box=\box111
-) (c:\Users\César Rosas\Documents\Maestría\Semestre 3\Cómputo Científico\Tarea 3 Cómputo Científico\build\Cómputo Tarea 3.aux
+) (c:\Users\César Rosas\Documents\Maestría\Semestre 3\Cómputo Científico\Tarea 4 Cómputo Científico\build\Cómputo Tarea 4.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 )
-\openout1 = `"Cómputo Tarea 3.aux"'.
+\openout1 = `"Cómputo Tarea 4.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -528,8 +528,8 @@ LaTeX Font Info:    ... okay on input line 66.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \. on input line 66.
-LaTeX Info: Redefining \% on input line 66.
+LaTeX Info: Redefining \. on input line 64.
+LaTeX Info: Redefining \% on input line 64.
 (C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count316
@@ -549,184 +549,22 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-LaTeX Font Info:    Trying to load font information for U+msa on input line 67.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 65.
  (C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 67.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 65.
  (C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 67.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 65.
  (C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-LaTeX Font Info:    Trying to load font information for U+bbold on input line 67.
- (C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\tex/latex/bbold\ubbold.fd)
-Underfull \hbox (badness 10000) in paragraph at lines 81--84
+LaTeX Font Info:    Trying to load font information for U+bbold on input line 65.
+ (C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\tex/latex/bbold\ubbold.fd) [1
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 91--95
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 96--99
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 100--103
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 104--109
-
- []
-
-[1
-
-{C:/Users/César Rosas/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-<img/3.png, id=18, 454.0965pt x 525.76425pt>
-File: img/3.png Graphic file (type png)
-<use img/3.png>
-Package pdftex.def Info: img/3.png  used on input line 125.
-(pdftex.def)             Requested size: 379.41585pt x 439.29637pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 122--131
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 132--135
-
- []
-
-[2 <./img/3.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 136--141
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 142--145
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 146--149
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 150--154
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 159--161
-
- []
-
-<img/4.png, id=24, 447.47176pt x 504.6855pt>
-File: img/4.png Graphic file (type png)
-<use img/4.png>
-Package pdftex.def Info: img/4.png  used on input line 167.
-(pdftex.def)             Requested size: 379.41585pt x 427.92967pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 171--175
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 176--180
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 181--185
-
- []
-
-<img/5.png, id=25, 344.487pt x 89.73524pt>
-File: img/5.png Graphic file (type png)
-<use img/5.png>
-Package pdftex.def Info: img/5.png  used on input line 200.
-(pdftex.def)             Requested size: 379.41585pt x 98.83775pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 215--220
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 221--226
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 227--231
-
- []
-
-[4 <./img/4.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 240--242
-
- []
-
-<img/0.png, id=34, 391.4625pt x 113.82526pt>
-File: img/0.png Graphic file (type png)
-<use img/0.png>
-Package pdftex.def Info: img/0.png  used on input line 251.
-(pdftex.def)             Requested size: 379.41585pt x 110.32872pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 254--256
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 260--261
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 263--272
-
- []
-
-[5 <./img/5.png> <./img/0.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 283--290
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 291--295
-
- []
-
-<img/1.png, id=41, 405.9165pt x 105.39375pt>
-File: img/1.png Graphic file (type png)
-<use img/1.png>
-Package pdftex.def Info: img/1.png  used on input line 302.
-(pdftex.def)             Requested size: 379.41585pt x 98.51369pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 305--309
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 310--313
-
- []
-
-[6 <./img/1.png>] (c:\Users\César Rosas\Documents\Maestría\Semestre 3\Cómputo Científico\Tarea 3 Cómputo Científico\build\Cómputo Tarea 3.aux
+{C:/Users/César Rosas/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (c:\Users\César Rosas\Documents\Maestría\Semestre 3\Cómputo Científico\Tarea 4 Cómputo Científico\build\Cómputo Tarea 4.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 )
@@ -736,17 +574,17 @@ L3 programming layer <2023-08-11>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 16725 strings out of 475503
- 342297 string characters out of 5758494
- 1933248 words of memory out of 5000000
- 37686 multiletter control sequences out of 15000+600000
- 567942 words of font info for 79 fonts, out of 8000000 for 9000
+ 16662 strings out of 475503
+ 341392 string characters out of 5758494
+ 1924248 words of memory out of 5000000
+ 37625 multiletter control sequences out of 15000+600000
+ 567428 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 116i,7n,121p,586b,468s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on "c:\Users\César Rosas\Documents\Maestría\Semestre 3\Cómputo Científico\Tarea 3 Cómputo Científico\build\Cómputo Tarea 3.pdf" (6 pages, 268112 bytes).
+ 116i,7n,121p,586b,365s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on "c:\Users\César Rosas\Documents\Maestría\Semestre 3\Cómputo Científico\Tarea 4 Cómputo Científico\build\Cómputo Tarea 4.pdf" (1 page, 118500 bytes).
 PDF statistics:
- 95 PDF objects out of 1000 (max. 8388607)
+ 59 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 38 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

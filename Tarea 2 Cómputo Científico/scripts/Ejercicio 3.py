@@ -273,8 +273,8 @@ from scipy import linalg as la
 import time #Librería para medir tiempos
 
 #QR para p=200,m=1000
-m=1000 
-p=200
+m=3000 
+p=300
 #Creamos un vector con las entradas entre 1 y 200 para graficar los tiempos
 k=np.arange(0,p)
 #Implementamos ambos algoritmos Y medimos tiempo.

@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1695224746 "c:/Users/César Rosas/Documents/Maestría/Semestre 3/Cómputo Científico/Tarea 3 Cómputo Científico/Cómputo Tarea 3.tex" "build/Cómputo Tarea 3.pdf" "Cómputo Tarea 3" 1695224756 0
+["pdflatex"] 1695245496 "c:/Users/César Rosas/Documents/Maestría/Semestre 3/Cómputo Científico/Tarea 4 Cómputo Científico/Cómputo Tarea 4.tex" "build/Cómputo Tarea 4.pdf" "Cómputo Tarea 4" 1695245500 0
   "C:/Users/César Rosas/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1694043879 83696 30863f05e67e29e7ec138f04cfc5afb2 ""
   "C:/Users/César Rosas/AppData/Local/MiKTeX/fonts/tfm/public/bbold/bbold10.tfm" 1650778012 788 aa2bfd021367054a224c4cf5a9967398 ""
   "C:/Users/César Rosas/AppData/Local/MiKTeX/fonts/tfm/public/bbold/bbold12.tfm" 1651981839 768 568afddd613f4818fa95373954d5df42 ""
@@ -32,8 +32,6 @@
   "C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy10.tfm" 1136765053 1124 6c73e740cf17375f03eec0ee63599741 ""
   "C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy6.tfm" 1136765053 1116 933a60c408fc0a863a92debe84b2d294 ""
   "C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy8.tfm" 1136765053 1120 8b7d695260f3cff42e636090a8002094 ""
-  "C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmti10.tfm" 1136765053 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
-  "C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmtt10.tfm" 1136765053 768 1321e9409b4137d6fb428ac9dc956269 ""
   "C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1247596666 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
   "C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb" 1247596667 30251 6afa5cb1d0204815a708a080681d4674 ""
@@ -44,8 +42,6 @@
   "C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1247596667 32762 7fee39e011c23b3589931effd97b9702 ""
   "C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb" 1247596666 32716 08e384dc442464e7285e891af9f45947 ""
-  "C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1247596667 37944 359e864bd06cde3b1cf57bb20757fb06 ""
-  "C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb" 1247596667 31099 342ef5a582aacbd3346f3cf4579679fa ""
   "C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.sty" 1689436349 147701 c67babac98fcd1d4a6956667b84c7fca ""
   "C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/tex/generic/babel/locale/es/babel-es.ini" 1689436352 4345 33a8cc6f0a7c6afcb84895b2c963a4e5 ""
@@ -156,16 +152,11 @@
   "C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/tex/latex/tikz-cd/tikzlibrarycd.code.tex" 1620478817 23059 b4b98da760150611227e2533f15fe352 ""
   "C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/tex/latex/tools/multicol.sty" 1686255640 32515 51caec75eda9c8890135f12f1a4eddc3 ""
   "C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "Cómputo Tarea 3.tex" 1695224745 19847 d362f5508b63ec3b254fdb926652be68 ""
-  "build/Cómputo Tarea 3.aux" 1695224755 1166 ab57da00ca49c6c086b030265987dba0 "pdflatex"
-  "c:/Users/César Rosas/Documents/Maestría/Semestre 3/Cómputo Científico/Tarea 3 Cómputo Científico/Cómputo Tarea 3.tex" 1695224745 19847 d362f5508b63ec3b254fdb926652be68 ""
-  "img/0.png" 1695193910 12710 d395c9c99e45031af7e285751c45e796 ""
-  "img/1.png" 1695194993 12333 ecf604c678c9b61b89ed64e3cca4d310 ""
-  "img/3.png" 1695219840 72695 6e31f5735e61c203af13ff1e1cc8fb12 ""
-  "img/4.png" 1695221956 64036 0a75a2f9975ef17ec8c94b3c93a760be ""
-  "img/5.png" 1695224579 7941 a0a35de079eacd578a58385a7ac3eda6 ""
+  "Cómputo Tarea 4.tex" 1695245495 3338 7670f583a7f83d1efa44ce4cd93d1028 ""
+  "build/Cómputo Tarea 4.aux" 1695245499 194 72658fb03bfd53fc103956ba2036b889 "pdflatex"
+  "c:/Users/César Rosas/Documents/Maestría/Semestre 3/Cómputo Científico/Tarea 4 Cómputo Científico/Cómputo Tarea 4.tex" 1695245495 3338 7670f583a7f83d1efa44ce4cd93d1028 ""
   (generated)
-  "build/Cómputo Tarea 3.aux"
-  "build/Cómputo Tarea 3.log"
-  "build/Cómputo Tarea 3.pdf"
+  "build/Cómputo Tarea 4.aux"
+  "build/Cómputo Tarea 4.log"
+  "build/Cómputo Tarea 4.pdf"
   (rewritten before read)
