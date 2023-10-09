@@ -66,3 +66,19 @@ def CholFact(A):
     
     return[R]
 
+#Ejemplo:
+A=np.array([[14,-8,4],[-8,6,-2],[4,-2,2]],dtype=float)
+A
+#Obtenemos la descomposición de Cholesky
+B=CholFact(A)[0]
+B
+#Anulamos todas las entradas debajo de la diagonal en B:
+for i in range(0,3):
+    for j in range(0,i):
+        B[i,j]=0
+B
+#Realizamos ahora la transposición, multiplicamos y comparamos
+B.T@B
+A
+
+

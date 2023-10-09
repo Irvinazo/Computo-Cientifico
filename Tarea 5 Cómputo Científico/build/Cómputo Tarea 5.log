@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.9.21)  24 SEP 2023 13:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.9.21)  8 OCT 2023 22:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/César Rosas/Documents/Maestría/Semestre 3/Cómputo Científico/Tarea 4 Cómputo Científico/Cómputo Tarea 4.tex"
-(c:/Users/César Rosas/Documents/Maestría/Semestre 3/Cómputo Científico/Tarea 4 Cómputo Científico/Cómputo Tarea 4.tex
+**"c:/Users/César Rosas/Documents/Maestría/Semestre 3/Cómputo Científico/Tarea 5 Cómputo Científico/Cómputo Tarea 5.tex"
+(c:/Users/César Rosas/Documents/Maestría/Semestre 3/Cómputo Científico/Tarea 5 Cómputo Científico/Cómputo Tarea 5.tex
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-11>
 (C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -473,11 +473,11 @@ Package: dsfont 1995/08/01 v0.1 Double stroke roman fonts
 File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count315
 \l__pdf_internal_box=\box111
-) (c:\Users\César Rosas\Documents\Maestría\Semestre 3\Cómputo Científico\Tarea 4 Cómputo Científico\build\Cómputo Tarea 4.aux
+) (c:\Users\César Rosas\Documents\Maestría\Semestre 3\Cómputo Científico\Tarea 5 Cómputo Científico\build\Cómputo Tarea 5.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 )
-\openout1 = `"Cómputo Tarea 4.aux"'.
+\openout1 = `"Cómputo Tarea 5.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
 LaTeX Font Info:    ... okay on input line 64.
@@ -562,14 +562,9 @@ LaTeX Font Info:    Trying to load font information for U+rsfs on input line 65.
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 LaTeX Font Info:    Trying to load font information for U+bbold on input line 65.
- (C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\tex/latex/bbold\ubbold.fd)
-Underfull \hbox (badness 10000) in paragraph at lines 85--87
+ (C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\tex/latex/bbold\ubbold.fd) [1
 
- []
-
-[1
-
-{C:/Users/César Rosas/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (c:\Users\César Rosas\Documents\Maestría\Semestre 3\Cómputo Científico\Tarea 4 Cómputo Científico\build\Cómputo Tarea 4.aux
+{C:/Users/César Rosas/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (c:\Users\César Rosas\Documents\Maestría\Semestre 3\Cómputo Científico\Tarea 5 Cómputo Científico\build\Cómputo Tarea 5.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 )
@@ -579,17 +574,17 @@ L3 programming layer <2023-08-11>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 16665 strings out of 475503
- 341418 string characters out of 5758494
- 1928248 words of memory out of 5000000
- 37627 multiletter control sequences out of 15000+600000
- 567774 words of font info for 78 fonts, out of 8000000 for 9000
+ 16658 strings out of 475503
+ 341288 string characters out of 5758494
+ 1922248 words of memory out of 5000000
+ 37621 multiletter control sequences out of 15000+600000
+ 567428 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  116i,7n,121p,586b,365s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on "c:\Users\César Rosas\Documents\Maestría\Semestre 3\Cómputo Científico\Tarea 4 Cómputo Científico\build\Cómputo Tarea 4.pdf" (1 page, 137684 bytes).
+<C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/César Rosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on "c:\Users\César Rosas\Documents\Maestría\Semestre 3\Cómputo Científico\Tarea 5 Cómputo Científico\build\Cómputo Tarea 5.pdf" (1 page, 96069 bytes).
 PDF statistics:
- 69 PDF objects out of 1000 (max. 8388607)
+ 49 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
