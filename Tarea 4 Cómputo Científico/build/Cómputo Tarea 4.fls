@@ -254,8 +254,26 @@ INPUT C:\Users\César Rosas\AppData\Local\MiKTeX\fonts\tfm\public\bbold\bbold10.
 INPUT C:\Users\César Rosas\AppData\Local\MiKTeX\fonts\tfm\public\bbold\bbold7.tfm
 INPUT C:\Users\César Rosas\AppData\Local\MiKTeX\fonts\tfm\public\bbold\bbold5.tfm
 INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
+INPUT .\img\1.png
+INPUT .\img\1.png
+INPUT .\img\1.png
 OUTPUT c:\Users\César Rosas\Documents\Maestría\Semestre 3\Cómputo Científico\Tarea 4 Cómputo Científico\build\Cómputo Tarea 4.pdf
+INPUT .\img\1.png
+INPUT .\img\1.png
+INPUT .\img\1.png
 INPUT C:\Users\César Rosas\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT .\img\2.png
+INPUT .\img\2.png
+INPUT .\img\2.png
+INPUT .\img\2.png
+INPUT .\img\2.png
+INPUT .\img\2.png
+INPUT .\img\3.png
+INPUT .\img\3.png
+INPUT .\img\3.png
+INPUT .\img\3.png
+INPUT .\img\3.png
+INPUT .\img\3.png
 INPUT c:\Users\César Rosas\Documents\Maestría\Semestre 3\Cómputo Científico\Tarea 4 Cómputo Científico\build\Cómputo Tarea 4.aux
 INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
@@ -265,19 +283,27 @@ INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\ams
 INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
 INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
 INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi5.pfb
+INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi5.pfb
 INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi7.pfb
 INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi7.pfb
 INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr5.pfb
+INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr5.pfb
 INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
 INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
 INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy5.pfb
+INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy5.pfb
 INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
 INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
 INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb
 INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb
+INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\symbols\msam10.pfb
+INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\symbols\msam10.pfb
 INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\symbols\msbm10.pfb
 INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\symbols\msbm10.pfb
