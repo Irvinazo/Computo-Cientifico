@@ -1,0 +1,86 @@
+\documentclass[letterpaper]{article} 
+\usepackage[left = 0.5in, right = 0.5in, top = 0.9in, bottom = 0.9in]{geometry}
+\usepackage{enumitem}
+\usepackage{multicol}
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage{tikz-cd}
+\usepackage{mathrsfs}
+\usepackage[bbgreekl]{mathbbol}
+\usepackage{dsfont}
+\usepackage{graphicx}
+\graphicspath{{img/}}
+
+\newcommand{\op}{\operatorname}
+\newcommand{\Op}{^{\op{op}}}
+\newcommand{\scc}{\mathscr C}
+\newcommand{\scd}{\mathscr D}
+\newcommand{\sce}{\mathscr E}
+\newcommand{\sci}{\mathscr I}
+\newcommand{\scj}{\mathscr J}
+\newcommand{\scx}{\mathscr X}
+\newcommand{\var}{\mathrm{Var}}
+\newcommand{\Id}{\operatorname{Id}}
+\newcommand{\N}{\mathbb N}
+\newcommand{\Z}{\mathbb Z}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\I}{\mathbb{I}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\F}{\mathcal{F}}
+\newcommand{\G}{\mathcal{G}}
+\newcommand{\B}{\mathcal{B}}
+\newcommand{\abs}[1]{\left\lvert #1 \right\rvert}
+\newcommand{\inv}{^{-1}}
+\renewcommand{\to}{\rightarrow}
+\newcommand{\ent}{\Longrightarrow}
+\newcommand{\E}{\mathbb{E}}
+\renewcommand{\P}{\mathbb{P}}
+\newcommand{\1}{\mathds{1}}
+\renewcommand{\qedsymbol}{$\blacksquare$}
+
+\theoremstyle{definition}
+\newtheorem{dfn}{Definición}
+\theoremstyle{definition}
+\newtheorem{teo}{Teorema}
+\theoremstyle{definition}
+\newtheorem{cor}{Corolario}
+\theoremstyle{definition}
+\newtheorem{prop}{Proposición}
+\theoremstyle{definition}
+\newtheorem{obs}{Observación}
+
+
+\title{\textbf{Cómputo Científico\\
+Tarea 6\\
+}}
+\author{Iván Irving Rosas Domínguez}
+\date{\today}
+
+\DeclareSymbolFontAlphabet{\mathbbm}{bbold}
+\DeclareSymbolFontAlphabet{\mathbb}{AMSb}
+\DeclareMathSymbol\bbDelta  \mathord{bbold}{"01}
+
+\begin{document}
+\maketitle
+
+%\begin{abstract}
+%\end{abstract}
+\begin{enumerate}
+    \item[\textbf{1.}] Simular $n=5$ y $n=40$ v.a. Bernoulli $Be(1/3)$; sea $r$ el número 
+    de éxitos en cada caso.
+    \item[\textbf{2.}] Implementar el algoritmo Metrópolis-Hastings para simular de 
+    la posterior 
+    \[
+    f(p|\bar{x})\propto p^r(1-p)^{n-r}\cos(\pi p)\1_{[0,\frac{1}{2}]}(p),    
+    \]
+    con los dos casos de $n$ y $r$ de arriba. Para ello poner la propuesta $(p'|p)=p'\sim Beta(r+1,n-r+1)$
+    y la distribución inicial de la cadena $\mu\sim U(0,\frac{1}{2})$.
+    \item[\textbf{3.}] Argumentar por qué la cadena es $f$-irreducible y por qué es ergódica. 
+    Implementar el algoritmo con los datos descritos y discutir los resultados.
+    \item[\textbf{4.}] Implementar el algoritmo Metrópolis-Hastings con la posterior de arriba 
+    tomando una propuesta diferente.
+\end{enumerate}
+\end{document}
