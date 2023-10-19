@@ -1,0 +1,159 @@
+\documentclass[letterpaper]{article} 
+\usepackage[left = 0.5in, right = 0.5in, top = 0.9in, bottom = 0.9in]{geometry}
+\usepackage{enumitem}
+\usepackage{multicol}
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage{tikz-cd}
+\usepackage{mathrsfs}
+\usepackage[bbgreekl]{mathbbol}
+\usepackage{dsfont}
+\usepackage{graphicx}
+\graphicspath{{img/}}
+
+\newcommand{\op}{\operatorname}
+\newcommand{\Op}{^{\op{op}}}
+\newcommand{\scc}{\mathscr C}
+\newcommand{\scd}{\mathscr D}
+\newcommand{\sce}{\mathscr E}
+\newcommand{\sci}{\mathscr I}
+\newcommand{\scj}{\mathscr J}
+\newcommand{\scx}{\mathscr X}
+\newcommand{\var}{\mathrm{Var}}
+\newcommand{\Id}{\operatorname{Id}}
+\newcommand{\N}{\mathbb N}
+\newcommand{\Z}{\mathbb Z}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\I}{\mathbb{I}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\F}{\mathcal{F}}
+\newcommand{\G}{\mathcal{G}}
+\newcommand{\B}{\mathcal{B}}
+\newcommand{\abs}[1]{\left\lvert #1 \right\rvert}
+\newcommand{\inv}{^{-1}}
+\renewcommand{\to}{\rightarrow}
+\newcommand{\ent}{\Longrightarrow}
+\newcommand{\E}{\mathbb{E}}
+\renewcommand{\P}{\mathbb{P}}
+\newcommand{\1}{\mathds{1}}
+\renewcommand{\qedsymbol}{$\blacksquare$}
+
+\theoremstyle{definition}
+\newtheorem{dfn}{Definición}
+\theoremstyle{definition}
+\newtheorem{teo}{Teorema}
+\theoremstyle{definition}
+\newtheorem{cor}{Corolario}
+\theoremstyle{definition}
+\newtheorem{prop}{Proposición}
+\theoremstyle{definition}
+\newtheorem{obs}{Observación}
+
+
+\title{\textbf{Cómputo Científico\\
+Tarea 7\\
+MCMC: Metrópolis-Hastings II}}
+\author{Iván Irving Rosas Domínguez}
+\date{\today}
+
+\DeclareSymbolFontAlphabet{\mathbbm}{bbold}
+\DeclareSymbolFontAlphabet{\mathbb}{AMSb}
+\DeclareMathSymbol\bbDelta  \mathord{bbold}{"01}
+
+\begin{document}
+\maketitle
+
+% \begin{abstract}
+% \end{abstract}
+
+\textbf{Con el algoritmo Metrópolis-Hastings (MH), simular lo siguiente:}
+\begin{itemize}
+    \item[\textbf{1.}] Sean $x_i\sim\Gamma(\alpha,\beta); \ i\in \{1,...,n\}$. Simular datos $x_i$ 
+    con $\alpha=3$ y $\beta=100$ considerando los casos $n=4$ y $n=30$.
+
+    Con $\alpha\sim U(1,4)$, $\beta\sim \exp(1)$ distribuciones a priori, se tiene la
+    posterior 
+    \[
+    f(\alpha,\beta|\bar{x})\propto\frac{\beta^{n\alpha}}{\Gamma(\alpha)}r_1^{\alpha-1}e^{-\beta(r_2+1)}, \qquad 1\leq \alpha\leq 4, \quad \beta>1.    
+    \]
+    con $r_2=\displaystyle \sum_{i=1}^nx_i$ y $r_1=\displaystyle\prod_{i=1}^{n}x_i$.
+
+    En ambos casos, grafica los contornos para visualizar dónde está concentrada la posterior.
+
+    Utilizar la propuesta 
+    \[
+    q \left( \begin{pmatrix}
+        \alpha_p\\
+        \beta_p
+    \end{pmatrix} \Bigg|
+    \begin{pmatrix}
+        \alpha\\
+        \beta
+    \end{pmatrix}
+    \right)= \begin{pmatrix}
+        \alpha\\
+        \beta
+    \end{pmatrix}
+    +
+    \begin{pmatrix}
+        \varepsilon_1\\
+        \varepsilon_2
+    \end{pmatrix},    
+    \]
+    donde 
+    \[
+    \begin{pmatrix}
+        \varepsilon_1\\
+        \varepsilon_2
+    \end{pmatrix}    
+    \sim 
+    \mathcal{N}_2 \left( \begin{pmatrix}
+        0\\
+        0
+    \end{pmatrix},
+    \begin{pmatrix}
+        \sigma_1^2 & 0\\
+        0 & \sigma_2^2
+    \end{pmatrix}\right).
+    \]
+    \item[\textbf{2.}] Simular de la distribución $\Gamma(\alpha,1)$ con la propuesta $\Gamma(\left[\alpha\right],1)$,
+    donde $\left[\alpha\right]$ denota la parte entera de $\alpha$.
+    \newline
+
+    Además, realizar el siguiente experimento: poner como punto inicial $x_0=900$ y graficar 
+    la evolución de la cadena, es decir, $f(X_t)$ vs $t$.
+    \item[\textbf{3.}] Implementar Random Walk Metrópolis Hastings (RWMH) donde la distribución
+    objetivo es $\mathcal{N}_2(\mu,\Sigma)$, con 
+    \[
+    \mu=\begin{pmatrix}
+        3\\
+        5
+    \end{pmatrix} \ \text{ y } \ 
+    \begin{pmatrix}
+        1 & 0.9\\
+        0.9 & 1
+    \end{pmatrix}.    
+    \]
+    Utilizar como propuesta $\varepsilon_t\sim \mathcal{N}_2(\textbf{0},\sigma I)$. ¿Cómo elegir 
+    $\sigma$ para que la cadena sea eficiente? ¿Qué consecuencias tiene la elección de $\sigma$?
+
+    Como experimento, elige como punto inicial $x_0= \begin{pmatrix}
+        1000\\
+        1
+    \end{pmatrix}$ y comenta los resultados.\\
+
+    \textbf{Para todos los incisos del ejercicio anterior:}
+    \begin{itemize}
+        \item Establece cual es tu distribución inicial.
+        \item Grafica la evolución de la cadena.
+        \item Indica cuál es el Burn-in.
+        \item Comenta qué tan eficiente es la cadena.
+        \item Implementa el algoritmo MH considerando una propuesta diferente.
+    \end{itemize}
+\end{itemize}
+
+
+\end{document}  
