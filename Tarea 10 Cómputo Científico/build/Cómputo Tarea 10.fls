@@ -1,7 +1,7 @@
-PWD c:\Users\César Rosas\Documents\Maestría\Semestre 3\Cómputo Científico\Tarea 8 Cómputo Científico
+PWD c:\Users\César Rosas\Documents\Maestría\Semestre 3\Cómputo Científico\Tarea 10 Cómputo Científico
 INPUT C:\Users\César Rosas\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\César Rosas\Documents\Maestría\Semestre 3\Cómputo Científico\Tarea 8 Cómputo Científico\Cómputo Tarea 8.tex
-OUTPUT c:\Users\César Rosas\Documents\Maestría\Semestre 3\Cómputo Científico\Tarea 8 Cómputo Científico\build\Cómputo Tarea 8.log
+INPUT c:\Users\César Rosas\Documents\Maestría\Semestre 3\Cómputo Científico\Tarea 10 Cómputo Científico\Cómputo Tarea 10.tex
+OUTPUT c:\Users\César Rosas\Documents\Maestría\Semestre 3\Cómputo Científico\Tarea 10 Cómputo Científico\build\Cómputo Tarea 10.log
 INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
@@ -188,10 +188,10 @@ INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\tex\latex\doublestroke
 INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\tex\latex\doublestroke\dsfont.sty
 INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT c:\Users\César Rosas\Documents\Maestría\Semestre 3\Cómputo Científico\Tarea 8 Cómputo Científico\build\Cómputo Tarea 8.aux
-INPUT c:\Users\César Rosas\Documents\Maestría\Semestre 3\Cómputo Científico\Tarea 8 Cómputo Científico\build\Cómputo Tarea 8.aux
-INPUT c:\Users\César Rosas\Documents\Maestría\Semestre 3\Cómputo Científico\Tarea 8 Cómputo Científico\build\Cómputo Tarea 8.aux
-OUTPUT c:\Users\César Rosas\Documents\Maestría\Semestre 3\Cómputo Científico\Tarea 8 Cómputo Científico\build\Cómputo Tarea 8.aux
+INPUT c:\Users\César Rosas\Documents\Maestría\Semestre 3\Cómputo Científico\Tarea 10 Cómputo Científico\build\Cómputo Tarea 10.aux
+INPUT c:\Users\César Rosas\Documents\Maestría\Semestre 3\Cómputo Científico\Tarea 10 Cómputo Científico\build\Cómputo Tarea 10.aux
+INPUT c:\Users\César Rosas\Documents\Maestría\Semestre 3\Cómputo Científico\Tarea 10 Cómputo Científico\build\Cómputo Tarea 10.aux
+OUTPUT c:\Users\César Rosas\Documents\Maestría\Semestre 3\Cómputo Científico\Tarea 10 Cómputo Científico\build\Cómputo Tarea 10.aux
 INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -239,6 +239,7 @@ INPUT C:\Users\César Rosas\AppData\Local\MiKTeX\fonts\tfm\public\bbold\bbold12.
 INPUT C:\Users\César Rosas\AppData\Local\MiKTeX\fonts\tfm\public\bbold\bbold8.tfm
 INPUT C:\Users\César Rosas\AppData\Local\MiKTeX\fonts\tfm\public\bbold\bbold6.tfm
 INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
+INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
 INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
@@ -253,16 +254,10 @@ INPUT C:\Users\César Rosas\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs5.tfm
 INPUT C:\Users\César Rosas\AppData\Local\MiKTeX\fonts\tfm\public\bbold\bbold10.tfm
 INPUT C:\Users\César Rosas\AppData\Local\MiKTeX\fonts\tfm\public\bbold\bbold7.tfm
 INPUT C:\Users\César Rosas\AppData\Local\MiKTeX\fonts\tfm\public\bbold\bbold5.tfm
-INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\tex\latex\doublestroke\udsrom.fd
-INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\tex\latex\doublestroke\udsrom.fd
-INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\tex\latex\doublestroke\udsrom.fd
-INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\tfm\public\doublestroke\dsrom10.tfm
-INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\tfm\public\doublestroke\dsrom8.tfm
-INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\tfm\public\doublestroke\dsrom8.tfm
 INPUT .\img\1.png
 INPUT .\img\1.png
 INPUT .\img\1.png
-OUTPUT c:\Users\César Rosas\Documents\Maestría\Semestre 3\Cómputo Científico\Tarea 8 Cómputo Científico\build\Cómputo Tarea 8.pdf
+OUTPUT c:\Users\César Rosas\Documents\Maestría\Semestre 3\Cómputo Científico\Tarea 10 Cómputo Científico\build\Cómputo Tarea 10.pdf
 INPUT .\img\1.png
 INPUT .\img\1.png
 INPUT .\img\1.png
@@ -272,161 +267,23 @@ INPUT .\img\2.png
 INPUT .\img\2.png
 INPUT .\img\2.png
 INPUT .\img\2.png
-INPUT .\img\3.png
-INPUT .\img\3.png
-INPUT .\img\3.png
-INPUT .\img\3.png
-INPUT .\img\3.png
-INPUT .\img\3.png
-INPUT .\img\4.png
-INPUT .\img\4.png
-INPUT .\img\4.png
-INPUT .\img\4.png
-INPUT .\img\4.png
-INPUT .\img\4.png
 INPUT C:\Users\César Rosas\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT .\img\5.png
-INPUT .\img\5.png
-INPUT .\img\5.png
-INPUT .\img\5.png
-INPUT .\img\5.png
-INPUT .\img\5.png
-INPUT .\img\6.png
-INPUT .\img\6.png
-INPUT .\img\6.png
-INPUT .\img\6.png
-INPUT .\img\6.png
-INPUT .\img\6.png
-INPUT .\img\7.png
-INPUT .\img\7.png
-INPUT .\img\7.png
-INPUT .\img\7.png
-INPUT .\img\7.png
-INPUT .\img\7.png
-INPUT .\img\8.png
-INPUT .\img\8.png
-INPUT .\img\8.png
-INPUT .\img\8.png
-INPUT .\img\8.png
-INPUT .\img\8.png
-INPUT .\img\9.png
-INPUT .\img\9.png
-INPUT .\img\9.png
-INPUT .\img\9.png
-INPUT .\img\9.png
-INPUT .\img\9.png
-INPUT .\img\10.png
-INPUT .\img\10.png
-INPUT .\img\10.png
-INPUT .\img\10.png
-INPUT .\img\10.png
-INPUT .\img\10.png
-INPUT .\img\11.png
-INPUT .\img\11.png
-INPUT .\img\11.png
-INPUT .\img\11.png
-INPUT .\img\11.png
-INPUT .\img\11.png
-INPUT .\img\12.png
-INPUT .\img\12.png
-INPUT .\img\12.png
-INPUT .\img\12.png
-INPUT .\img\12.png
-INPUT .\img\12.png
-INPUT .\img\13.png
-INPUT .\img\13.png
-INPUT .\img\13.png
-INPUT .\img\13.png
-INPUT .\img\13.png
-INPUT .\img\13.png
-INPUT .\img\14.png
-INPUT .\img\14.png
-INPUT .\img\14.png
-INPUT .\img\14.png
-INPUT .\img\14.png
-INPUT .\img\14.png
-INPUT .\img\15.png
-INPUT .\img\15.png
-INPUT .\img\15.png
-INPUT .\img\15.png
-INPUT .\img\15.png
-INPUT .\img\15.png
-INPUT .\img\16.png
-INPUT .\img\16.png
-INPUT .\img\16.png
-INPUT .\img\16.png
-INPUT .\img\16.png
-INPUT .\img\16.png
-INPUT .\img\17.png
-INPUT .\img\17.png
-INPUT .\img\17.png
-INPUT .\img\17.png
-INPUT .\img\17.png
-INPUT .\img\17.png
-INPUT .\img\18.png
-INPUT .\img\18.png
-INPUT .\img\18.png
-INPUT .\img\18.png
-INPUT .\img\18.png
-INPUT .\img\18.png
-INPUT .\img\19.png
-INPUT .\img\19.png
-INPUT .\img\19.png
-INPUT .\img\19.png
-INPUT .\img\19.png
-INPUT .\img\19.png
-INPUT .\img\20.png
-INPUT .\img\20.png
-INPUT .\img\20.png
-INPUT .\img\20.png
-INPUT .\img\20.png
-INPUT .\img\20.png
-INPUT .\img\21.png
-INPUT .\img\21.png
-INPUT .\img\21.png
-INPUT .\img\21.png
-INPUT .\img\21.png
-INPUT .\img\21.png
-INPUT .\img\22.png
-INPUT .\img\22.png
-INPUT .\img\22.png
-INPUT .\img\22.png
-INPUT .\img\22.png
-INPUT .\img\22.png
-INPUT .\img\23.png
-INPUT .\img\23.png
-INPUT .\img\23.png
-INPUT .\img\23.png
-INPUT .\img\23.png
-INPUT .\img\23.png
-INPUT c:\Users\César Rosas\Documents\Maestría\Semestre 3\Cómputo Científico\Tarea 8 Cómputo Científico\build\Cómputo Tarea 8.aux
+INPUT .\img\3.png
+INPUT .\img\3.png
+INPUT .\img\3.png
+INPUT .\img\3.png
+INPUT .\img\3.png
+INPUT .\img\3.png
+INPUT c:\Users\César Rosas\Documents\Maestría\Semestre 3\Cómputo Científico\Tarea 10 Cómputo Científico\build\Cómputo Tarea 10.aux
+INPUT C:\Users\César Rosas\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
+INPUT C:\Users\César Rosas\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
 INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
-INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
-INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
-INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cmextra\cmex7.pfb
-INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cmextra\cmex7.pfb
-INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
-INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
-INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi5.pfb
-INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi5.pfb
-INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi7.pfb
-INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi7.pfb
 INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
-INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr5.pfb
-INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr5.pfb
-INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
-INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
 INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
-INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy5.pfb
-INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy5.pfb
-INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
-INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
-INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\doublestroke\dsrom10.pfb
-INPUT C:\Users\César Rosas\AppData\Local\Programs\MiKTeX\fonts\type1\public\doublestroke\dsrom10.pfb
