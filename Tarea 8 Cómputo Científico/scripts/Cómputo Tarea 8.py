@@ -411,3 +411,4 @@ plt.title(r'Histograma de la variable $\beta$.')
 plt.xlabel(r'Valor en $\beta$')
 plt.ylabel('Frecuencia (normalizada)')
 plt.show()
+
